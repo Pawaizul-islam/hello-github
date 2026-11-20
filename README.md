@@ -8,12 +8,12 @@ Halo! Ini adalah repository GitHub pertama saya.
 - Kampus : Fakultas teknik Universitas Hamzanwadi
 - Alamat : Dames Damai, Kecamatan Suralaga, Kabupaten Lombok Timur, Provinsi Nusa Tenggara Barat
 - Karir Pendidikan:
-- MI nwdi dames
-- Mts nwdi dames
-- Ma Mu'allimin nwdi pancor
+  MI nwdi dames
+  Mts nwdi dames
+  Ma Mu'allimin nwdi pancor
 - Fakultas teknik universitas hamzanwadi
 - Negara : Indonesia
-- 
+  
 -  القوة لا تأتي من الجسد فقط وإنما من الإرادة أيضاً  Kekuatan tidak hanya berasal dari tubuh, tetapi juga dari kemauan
 
 ## Tujuan 
