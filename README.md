@@ -13,6 +13,7 @@ Halo! Ini adalah repository GitHub pertama saya.
 - Ma Mu'allimin nwdi pancor
 - Fakultas teknik universitas hamzanwadi
 - Negara : Indonesia
+- 
 -  القوة لا تأتي من الجسد فقط وإنما من الإرادة أيضاً  Kekuatan tidak hanya berasal dari tubuh, tetapi juga dari kemauan
 
 ## Tujuan 
