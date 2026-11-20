@@ -3,16 +3,17 @@
 Halo! Ini adalah repository GitHub pertama saya. 
 
 ## Tentang Saya 
-- Nama: Nama Mahasiswa
-- Program Studi: Nama Program Studi
+- Nama: Muhammad Hazwar pawaizul Islam
+- Program Studi: Sistem Informasi
 - Kampus : Fakultas teknik Universitas Hamzanwadi
-- alamat : Dames Damai, Kecamatan Suralaga, Kabupaten Lombok Timur, Provinsi Nusa Tenggara Barat
+- Alamat : Dames Damai, Kecamatan Suralaga, Kabupaten Lombok Timur, Provinsi Nusa Tenggara Barat
 - Karir Pendidikan:
 - MI nwdi dames
-- mts nwdi dames
-- ma mu'allimin nwdi pancor
+- Mts nwdi dames
+- Ma Mu'allimin nwdi pancor
 - Fakultas teknik universitas hamzanwadi
 - Negara : Indonesia
+-  القوة لا تأتي من الجسد فقط وإنما من الإرادة أيضاً  Kekuatan tidak hanya berasal dari tubuh, tetapi juga dari kemauan
 
 ## Tujuan 
 Belajar menggunakan Git dan GitHub. 
